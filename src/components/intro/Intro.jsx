@@ -17,13 +17,13 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/jack.jpg" alt="Jack" />
+          <img src="assets/Dennis.jpg" alt="Jack" />
         </div>
       </div>
       <div className="right">
         <div className="wrapper">
           <h2>Hey! This is</h2>
-          <h1>(Jack)Ziqi Li</h1>
+          <h1>(Dennis)Liu Yu</h1>
           <h3>
             AUT Graduate, <span ref={textRef}></span>
           </h3>
